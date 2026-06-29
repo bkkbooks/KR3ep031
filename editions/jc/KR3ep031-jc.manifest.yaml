@@ -1,0 +1,1460 @@
+canonical_identifier: bkk:krp/KR3ep031/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep031/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫權初編
+  identifiers:
+    krp: KR3ep031
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep031.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep031_000-jc.yaml, hash: 'sha256:cbfa444d910beb3e8c19d6f804e151a5157cc5c5364cfb1e6bd59419f6906e3c'}
+  - {seq: 1, filename: KR3ep031_001-jc.yaml, hash: 'sha256:67e4a80bf331a5d6ad24f90f5c65712a7f6fd7e2b194195da91732ea266abf9c'}
+  - {seq: 3, filename: KR3ep031_003-jc.yaml, hash: 'sha256:d9cf2ab8e53194ac6a138a051a76849ba9ab84345c5fc1d98bfdc275f2b4f237'}
+  - {seq: 0, filename: KR3ep031_000-jc.yaml, hash: 'sha256:527396ad24d1d8a85956905a24fb6bc178a701f94c88a9b8d733a38269aad997'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep031_000-jc.markers.yaml, hash: 'sha256:022c44de7f171412d6c74e2be581cb2b450f8f0c10f20fe32b59f16c97189a1b'}
+  - {seq: 1, role: markers, filename: assets/KR3ep031_001-jc.markers.yaml, hash: 'sha256:3e1639467e084d7c238c1fd0953fd2d6e043309a23db5f6ae82944111dde993e'}
+  - {seq: 3, role: markers, filename: assets/KR3ep031_003-jc.markers.yaml, hash: 'sha256:63c31cc36f4e1cceb347b9f34710c32ef0214e65ef50c1b83b760f245143db57'}
+  - {seq: 0, role: markers, filename: assets/KR3ep031_000-jc.markers.yaml, hash: 'sha256:022c44de7f171412d6c74e2be581cb2b450f8f0c10f20fe32b59f16c97189a1b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 517
+  label: 柳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d3.h1s1
+    span:
+    - front
+    - 517
+    - 874
+  label: 繆序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d4.h1s1
+    span:
+    - front
+    - 874
+    - 1192
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 509
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 16278
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d2
+    span:
+    - body
+    - 2
+    - 477
+  label: 論達原飲第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d3
+    span:
+    - body
+    - 477
+    - 612
+  label: 論瘟疫論禁用石膏黃連第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d4
+    span:
+    - body
+    - 612
+    - 720
+  label: 論感寒時疫伏脈第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d5
+    span:
+    - body
+    - 720
+    - 944
+  label: 論感寒疫症下利不同第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d6
+    span:
+    - body
+    - 944
+    - 1178
+  label: 論小柴胡湯為疫症要藥第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d7
+    span:
+    - body
+    - 1178
+    - 1268
+  label: 論時疫感寒生死法第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d8
+    span:
+    - body
+    - 1268
+    - 1720
+  label: 論外感時疫下早之誤第七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d9
+    span:
+    - body
+    - 1720
+    - 1948
+  label: 論時疫每夾外感內傷第八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d10
+    span:
+    - body
+    - 1948
+    - 2716
+  label: 論三陽經用表藥法第九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d11
+    span:
+    - body
+    - 2716
+    - 3797
+  label: 論傷寒時疫下症當以舌胎為第一義第十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d12
+    span:
+    - body
+    - 3797
+    - 4125
+  label: 論感寒時疫有禁食不禁食之說第十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d13
+    span:
+    - body
+    - 4125
+    - 4221
+  label: 論感寒時疫有食復不食復之異第十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d14
+    span:
+    - body
+    - 4221
+    - 4525
+  label: 論傷寒時疫過經不解第十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d15
+    span:
+    - body
+    - 4525
+    - 4725
+  label: 論感寒時疫當以利水為第二義第十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d16
+    span:
+    - body
+    - 4725
+    - 5217
+  label: 論外感發汗與時疫自汗迥異第十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d17
+    span:
+    - body
+    - 5217
+    - 5506
+  label: 論感寒與時疫之嘔不同第十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d18
+    span:
+    - body
+    - 5506
+    - 5806
+  label: 論柯韻伯寒傷於表法當溫散寒傷於裡法當溫補之句第十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d19
+    span:
+    - body
+    - 5806
+    - 6285
+  label: 論傷寒發明第十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d20
+    span:
+    - body
+    - 6285
+    - 6756
+  label: 論賁豚症有虛實不同第十九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d21
+    span:
+    - body
+    - 6756
+    - 6899
+  label: 論薄菏第二十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d22
+    span:
+    - body
+    - 6899
+    - 7020
+  label: 論滑石貫眾第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d23
+    span:
+    - body
+    - 7020
+    - 7308
+  label: 論熟大黃第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d24
+    span:
+    - body
+    - 7308
+    - 7538
+  label: 論夏月小兒內傷外感第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d25
+    span:
+    - body
+    - 7538
+    - 7791
+  label: 論內經無痰瘧滯瘧第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d26
+    span:
+    - body
+    - 7791
+    - 7913
+  label: 論內經脾病而四支不用第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d27
+    span:
+    - body
+    - 7913
+    - 8557
+  label: 論內經論新產及大病後不可瀉與朱丹溪言產後當以大補氣血為本雖有雜症以末治之第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d28
+    span:
+    - body
+    - 8557
+    - 8922
+  label: 論內經五奪不可瀉第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d29
+    span:
+    - body
+    - 8922
+    - 9543
+  label: 論石室秘錄第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d30
+    span:
+    - body
+    - 9543
+    - 9718
+  label: 論沈虛明費建中治痘迥異第二十九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d31
+    span:
+    - body
+    - 9718
+    - 10031
+  label: 論費建中頻頻欲解仍艱澀之句第三十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d32
+    span:
+    - body
+    - 10031
+    - 10225
+  label: 論治病當以脾胃為先第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d33
+    span:
+    - body
+    - 10225
+    - 10392
+  label: 論治脾胃之法第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d34
+    span:
+    - body
+    - 10392
+    - 10591
+  label: 論積聚與感寒時疫下法不同第三十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d35
+    span:
+    - body
+    - 10591
+    - 10824
+  label: 論力作之人與婦女胃中每多積聚症第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d36
+    span:
+    - body
+    - 10824
+    - 11152
+  label: 論羸弱不能生子當補其脾第三十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d37
+    span:
+    - body
+    - 11152
+    - 11411
+  label: 論治病當以人之元氣盛衰為本病為標第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d38
+    span:
+    - body
+    - 11411
+    - 11606
+  label: 論用藥效否當責之元氣強弱第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d39
+    span:
+    - body
+    - 11606
+    - 11727
+  label: 論脈數極多死症第三十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d40
+    span:
+    - body
+    - 11727
+    - 12001
+  label: 論脈多右大於左第三十九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d41
+    span:
+    - body
+    - 12001
+    - 12118
+  label: 論脈極大多死症第四十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d42
+    span:
+    - body
+    - 12118
+    - 12281
+  label: 論久病而添實脈實症者多不治第四十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d43
+    span:
+    - body
+    - 12281
+    - 12605
+  label: 論孕婦忌半夏之謬第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d44
+    span:
+    - body
+    - 12605
+    - 12732
+  label: 論直中陰症用藥法第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d45
+    span:
+    - body
+    - 12732
+    - 13243
+  label: 論腹痛吞酸屬肝之偏第四十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d46
+    span:
+    - body
+    - 13243
+    - 13620
+  label: 論治痘當歸脾胃第四十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d47
+    span:
+    - body
+    - 13620
+    - 14215
+  label: 論小兒驚搐多屬痰火附小兒久虛新停積滯不可強進補劑第四十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d48
+    span:
+    - body
+    - 14215
+    - 14498
+  label: 論醫道執一之弊第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d49
+    span:
+    - body
+    - 14498
+    - 14656
+  label: 論立方當先立案第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d50
+    span:
+    - body
+    - 14656
+    - 14972
+  label: 論用藥戒濫竽術第四十九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d51
+    span:
+    - body
+    - 14972
+    - 15337
+  label: 論舍脈從症舍症從脈第五十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d52
+    span:
+    - body
+    - 15337
+    - 15637
+  label: 論先瀉後補先補後瀉與補多瀉少瀉少補多補瀉各半以及屢補屢下之法第五十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d53
+    span:
+    - body
+    - 15637
+    - 15757
+  label: 論文字之醫與經歷之醫不同第五十二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d54
+    span:
+    - body
+    - 15757
+    - 15924
+  label: 論忙醫之誤第五十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d55
+    span:
+    - body
+    - 15924
+    - 16086
+  label: 論小兒用藥當預為補計第五十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep031_jc_001-d6d56
+    span:
+    - body
+    - 16086
+    - 16278
+  label: 論月季花當通經天竹實當補腎第五十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 16637
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 536
+  label: 錢婦儲方興病疫飲冷過度合案第一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d3
+    span:
+    - body
+    - 536
+    - 983
+  label: 梁婦康子疫症合案第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d4
+    span:
+    - body
+    - 983
+    - 1231
+  label: 虎氏母子疫症合案第三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d5
+    span:
+    - body
+    - 1231
+    - 1495
+  label: 康華之感寒一案第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d6
+    span:
+    - body
+    - 1495
+    - 1636
+  label: 周開周妻疫症一案第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d7
+    span:
+    - body
+    - 1636
+    - 1850
+  label: 繆豐城瘧轉感寒一案第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d8
+    span:
+    - body
+    - 1850
+    - 1910
+  label: 曹僧患疫得歇止脈一案第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d9
+    span:
+    - body
+    - 1910
+    - 1962
+  label: 堂兄與謙疫後變痢不治一案第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d10
+    span:
+    - body
+    - 1962
+    - 2149
+  label: 朱笠葊感寒一案第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d11
+    span:
+    - body
+    - 2149
+    - 2577
+  label: 潘國彩疫症一案第十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d12
+    span:
+    - body
+    - 2577
+    - 2645
+  label: 秀峰僧疫症一案第十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d13
+    span:
+    - body
+    - 2645
+    - 2820
+  label: 王東晹疫症一案第十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d14
+    span:
+    - body
+    - 2820
+    - 2974
+  label: 陳雙頂疫症發斑一案第十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d15
+    span:
+    - body
+    - 2974
+    - 3058
+  label: 吳婦感寒一案第十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d16
+    span:
+    - body
+    - 3058
+    - 3507
+  label: 丁赤晨疫症一案第十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d17
+    span:
+    - body
+    - 3507
+    - 3760
+  label: 丁繼寬疫症一案第十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d18
+    span:
+    - body
+    - 3760
+    - 3946
+  label: 王益貞痰瘧不治一案第十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d19
+    span:
+    - body
+    - 3946
+    - 4129
+  label: 繆子尚母感寒一案第十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d20
+    span:
+    - body
+    - 4129
+    - 4367
+  label: 徐芝三舌黑胎一案第十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d21
+    span:
+    - body
+    - 4367
+    - 4546
+  label: 漁人六月感寒用麻桂一案第二十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d22
+    span:
+    - body
+    - 4546
+    - 4845
+  label: 張婦感寒一案第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d23
+    span:
+    - body
+    - 4845
+    - 5019
+  label: 蔣星弁僕人時疫一案第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d24
+    span:
+    - body
+    - 5019
+    - 5617
+  label: 繆端生感寒兼積痰一案第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d25
+    span:
+    - body
+    - 5617
+    - 5700
+  label: 錢守國妻虛疫一案第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d26
+    span:
+    - body
+    - 5700
+    - 5790
+  label: 梁母虛疫一案第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d27
+    span:
+    - body
+    - 5790
+    - 5894
+  label: 何四兄虛感寒一案第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d28
+    span:
+    - body
+    - 5894
+    - 6005
+  label: 王禹訓內人虛疫不治一案第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d29
+    span:
+    - body
+    - 6005
+    - 6131
+  label: 丁圬者虛疫不治一案第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d30
+    span:
+    - body
+    - 6131
+    - 6224
+  label: 先兄虛感寒不治一案第二十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d31
+    span:
+    - body
+    - 6224
+    - 6391
+  label: 予與內子虛疫合案第三十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d32
+    span:
+    - body
+    - 6391
+    - 6455
+  label: 徐明子虛感寒不治一案第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d33
+    span:
+    - body
+    - 6455
+    - 6662
+  label: 十三總族媳虛感寒不治一案第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d34
+    span:
+    - body
+    - 6662
+    - 6948
+  label: 姚爾玉郎虎墩南莊一人虛疫合案第三十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d35
+    span:
+    - body
+    - 6948
+    - 7484
+  label: 朱笠葊大令愛三令愛產後咳嗽合案第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d36
+    span:
+    - body
+    - 7484
+    - 7787
+  label: 韓婦產後一案第三十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d37
+    span:
+    - body
+    - 7787
+    - 8024
+  label: 陳良友妻郭育材婢俱三月墮胎合案第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d38
+    span:
+    - body
+    - 8024
+    - 8296
+  label: 朱帝簡妻與內子生產合案第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d39
+    span:
+    - body
+    - 8296
+    - 8549
+  label: 繆婦墮胎一案第三十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d40
+    span:
+    - body
+    - 8549
+    - 8619
+  label: 王有成妻產後惡露不下一案第三十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d41
+    span:
+    - body
+    - 8619
+    - 8858
+  label: 王君瑞媳產後惡露上衝及孫婦疫症墮胎合案第四十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d42
+    span:
+    - body
+    - 8858
+    - 9028
+  label: 繆僧外感後及予瘧後不思食合案第四十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d43
+    span:
+    - body
+    - 9028
+    - 9213
+  label: 趙公著徐氏子陰症合案第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d44
+    span:
+    - body
+    - 9213
+    - 9349
+  label: 蔣子和趙公著徐氏子脈症類白虎湯合案第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d45
+    span:
+    - body
+    - 9349
+    - 10193
+  label: 賁大成久嗽一案第四十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d46
+    span:
+    - body
+    - 10193
+    - 10341
+  label: 孫伯魁咳嗽一案第四十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d47
+    span:
+    - body
+    - 10341
+    - 10613
+  label: 賁大成久嗽繼案第四十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d48
+    span:
+    - body
+    - 10613
+    - 10860
+  label: 丁妻積聚一案第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d49
+    span:
+    - body
+    - 10860
+    - 11193
+  label: 繆姓積聚一案第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d50
+    span:
+    - body
+    - 11193
+    - 11314
+  label: 彭彧卿內人結氣一案第四十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d51
+    span:
+    - body
+    - 11314
+    - 11449
+  label: 朱道人血淋一案第五十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d52
+    span:
+    - body
+    - 11449
+    - 11517
+  label: 楊母暴吐一案第五十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d53
+    span:
+    - body
+    - 11517
+    - 11653
+  label: 王大使酒疸不治一案第五十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d54
+    span:
+    - body
+    - 11653
+    - 11723
+  label: 予吐血兼脾瀉一案第五十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d55
+    span:
+    - body
+    - 11723
+    - 11857
+  label: 予身親歷諸病服藥之案第五十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d56
+    span:
+    - body
+    - 11857
+    - 12095
+  label: 陳輔廷子少腹痛一案第五十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d57
+    span:
+    - body
+    - 12095
+    - 12194
+  label: 周自西佃者痢疾一案第五十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d58
+    span:
+    - body
+    - 12194
+    - 12811
+  label: 繆姓寒疝兼痰火一案第五十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d59
+    span:
+    - body
+    - 12811
+    - 13030
+  label: 予大小腹氣痛一案第五十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d60
+    span:
+    - body
+    - 13030
+    - 13079
+  label: 次亡兒久瀉一案第五十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d61
+    span:
+    - body
+    - 13079
+    - 13246
+  label: 童天立幼時久瀉一案第六十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d62
+    span:
+    - body
+    - 13246
+    - 13376
+  label: 內人脾瀉兼氣痛一案第六十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d63
+    span:
+    - body
+    - 13376
+    - 13584
+  label: 康聖功孫痘症一案第六十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d64
+    span:
+    - body
+    - 13584
+    - 13695
+  label: 王弘仁痘瀉一案第六十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d65
+    span:
+    - body
+    - 13695
+    - 13927
+  label: 予痘症一案第六十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d66
+    span:
+    - body
+    - 13927
+    - 14076
+  label: 大亡兒痘症一案第六十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d67
+    span:
+    - body
+    - 14076
+    - 14243
+  label: 次亡兒痘症一案第六十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d68
+    span:
+    - body
+    - 14243
+    - 14588
+  label: 吳小兒天花不治一案第六十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d69
+    span:
+    - body
+    - 14588
+    - 14786
+  label: 虎墩痘兒瘞而復甦一案第六十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d70
+    span:
+    - body
+    - 14786
+    - 15011
+  label: 吳瘸子之子疳瀉目翳繆繼祖疳疾目翳合案第六十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d71
+    span:
+    - body
+    - 15011
+    - 15136
+  label: 仲恭玉三郎痘後目翳一案第七十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d72
+    span:
+    - body
+    - 15136
+    - 15264
+  label: 蕭友桐目翳一案第七十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d73
+    span:
+    - body
+    - 15264
+    - 15390
+  label: 賁大成幼子雀盲眼一案第七十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d74
+    span:
+    - body
+    - 15390
+    - 15460
+  label: 次亡兒黃水瘡一案第七十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d75
+    span:
+    - body
+    - 15460
+    - 15783
+  label: 家舅母胃痛並附陳相文治二胃痛合案第七十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d76
+    span:
+    - body
+    - 15783
+    - 15938
+  label: 附湯萬春治繆姓間瘧一案第七十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d77
+    span:
+    - body
+    - 15938
+    - 16175
+  label: 附王廷絢治二痘症合案第七十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d78
+    span:
+    - body
+    - 16175
+    - 16319
+  label: 附岳丈一笠上人治雉皋陳綿祚目疾一案第七十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep031_jc_003-d7d79
+    span:
+    - body
+    - 16319
+    - 16637
+  label: 繆姓痢疾一案第七十八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 2239
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d8d2
+    span:
+    - body
+    - 2
+    - 557
+  label: 重梓傷寒論翼序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d8d3
+    span:
+    - body
+    - 557
+    - 1154
+  label: 重梓古今名醫方論序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep031_jc_000-d8d4
+    span:
+    - body
+    - 1154
+    - 2239
+  label: 擬黜巫狀
+  type: section
+  level: 2
+hash: sha256:b651114d322122b154bb6065298ebcbd201b3bcc3cd35c59d354c2edf4ff1f2e
